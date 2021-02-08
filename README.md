@@ -6,18 +6,18 @@
 
 ## Welcome to Will-CatAPI!
 
-## This is a project done in PHP to consume a Cat API that contains general information about some breeds of cats.
+### This is a project done in PHP to consume a Cat API that contains general information about some breeds of cats.
 
 https://github.com/wilsonribeiro/will-catapi.git
 
 
 
-## For run this project you need have the Docker installed in your machine. 
+### For run this project you need have the Docker installed in your machine. 
 
-## (http://www.docker.com)
-## (https://docs.docker.com/get-docker/)
+### (http://www.docker.com)
+### (https://docs.docker.com/get-docker/)
 
-## To Debian / Ubuntu systems operations:
+### To Debian / Ubuntu systems operations:
 
 ~# curl -sSl https://get.docker.com | sh
 
@@ -26,36 +26,36 @@ https://github.com/wilsonribeiro/will-catapi.git
 ~# docker ps
 
 
-## Now clonning the project in your machine:
+### Now clonning the project in your machine:
 
 ~# git clone https://github.com/wilsonribeiro/will-catapi.git
 
-## Enter in the project directory:
+### Enter in the project directory:
 
 ~# cd will-catapi/
 
-## Run the built app images
+### Run the built app images
 
 ~# docker build -t will-cat-app .
 
-## Run the application container:
+### Run the application container:
 
 ~# docker run -p 3000:80 will-cat-app
 
-## See the Application running in your web browser:
+### See the Application running in your web browser:
 
 http://localhost:3000/
 
 
-## Nice!! Congratulations!!
+### Nice!! Congratulations!!
 
 
-# For more information access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
+For more information access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
 
 
-# Thank You!
+Thank You!
 
-# Wilson Ribeiro.
+Wilson Ribeiro.
 
 ### License
 <!-- Keep full URL links to repo files because this README syncs from main to gh-pages.  -->
