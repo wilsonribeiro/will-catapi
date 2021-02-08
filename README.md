@@ -17,7 +17,7 @@ https://github.com/wilsonribeiro/will-catapi.git
 ## (http://www.docker.com)
 ## (https://docs.docker.com/get-docker/)
 
-## To Debian / Ububtu systems operations:
+## To Debian / Ubuntu systems operations:
 
 ~# curl -sSl https://get.docker.com | sh
 
@@ -50,7 +50,8 @@ http://localhost:3000/
 Nice!!
 
 
-For more information access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
+
+## For more information access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
 
 
 Thanks!
