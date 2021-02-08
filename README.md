@@ -40,7 +40,7 @@ https://github.com/wilsonribeiro/will-catapi.git
 
 ## Run the application container:
 
-~# docker run -p 3000:80 will-cat-app 
+~# docker run -p 3000:80 will-cat-app
 
 ## See the Application running in your web browser:
 
@@ -48,9 +48,6 @@ http://localhost:3000/
 
 
 Nice!!
-
-
-
 
 
 For more information access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
