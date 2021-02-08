@@ -58,3 +58,9 @@ For more information access my profile on [LinkedIn](https://www.linkedin.com/in
 Thanks!
 
 Wilson Ribeiro.
+
+
+## License
+
+<!-- Keep full URL links to repo files because this README syncs from main to gh-pages.  -->
+[Apache 2.0 License](https://github.com/wilsonribeiro/will-catapi/blob/master/LICENSE).
