@@ -1,10 +1,11 @@
 ## The Will-CatAPI
 
 <!-- Lincense -->
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 ## Welcome to Will-CatAPI!
+
 ## This is a project done in PHP to consume a Cat API that contains general information about some breeds of cats.
 
 https://github.com/wilsonribeiro/will-catapi.git
@@ -52,14 +53,6 @@ Nice!!
 
 
 For more information access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
-
-
-
-## License
-
-<!-- Keep full URL links to repo files because this README syncs from main to gh-pages.  -->
-[Apache 2.0 License](https://github.com/wilsonribeiro/will-catapi/blob/master/LICENSE).
-
 
 
 Thanks!
