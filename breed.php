@@ -8,7 +8,6 @@
       $data = file_get_contents($urlstring); 
       $dataj = json_decode($data);
     ?>
-
     
     <h1> <?php echo $dataj[0] -> name; ?> </h1>
     <h2> <?php echo $dataj[0] -> origin; ?> </h2>
