@@ -34,15 +34,15 @@ https://github.com/wilsonribeiro/will-catapi.git
 
 ~# cd will-catapi/
 
-### Build the application image:
+### Build the application image and PHP Apache Web Server:
 
-~# docker build -t will-cat-app .
+~# docker build -t will-catapi-image .
 
 ### Run the application container:
 
-~# docker run -p 3000:80 will-cat-app
+~# docker run -p 3000:80 -d --name will-catapi-app will-catapi-image
 
-### See the Application running in your web browser:
+### See the Application running in your Web Browser:
 
 http://localhost:3000/
 
