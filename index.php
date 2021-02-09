@@ -13,7 +13,7 @@
         <li>
           <a href="<?php echo "/breed.php?name=" . $cats[0]->breeds[0]->name; ?>">
             <div>
-              <?php echo $dataj[$i]->name; ?>
+              <?php echo $dataj[$i]->name; ?> 
               <img src="<?php echo $cats[0]->url?>" width="100", height="100"> </img>
             </div>
           </a>
