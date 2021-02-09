@@ -52,10 +52,10 @@
 
 ###
 
-For more information access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
+For more information, please access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
 
 
-Thank You!
+Thanks!
 
 Wilson Ribeiro.
 
