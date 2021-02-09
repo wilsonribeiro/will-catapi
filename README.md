@@ -57,7 +57,6 @@ Thank You!
 
 Wilson Ribeiro.
 
-
-##### License
+### License
 <!-- Keep full URL links to repo files because this README syncs from main to gh-pages.  -->
 [Apache 2.0 License](https://github.com/wilsonribeiro/will-catapi/blob/master/LICENSE).
