@@ -45,7 +45,7 @@
 
 ### See the Application running in your Web Browser:
 
-http://localhost:3000/
+(http://localhost:3000/)
 
 
 ### That's right! Well done, congratulations!
