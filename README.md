@@ -12,12 +12,12 @@ https://github.com/wilsonribeiro/will-catapi.git
 
 
 
-### For run this project you need have the Docker installed in your machine. 
+### For run this project you need have the Docker installed in your machine.
 
 ### (http://www.docker.com)
 ### (https://docs.docker.com/get-docker/)
 
-### To Debian / Ubuntu systems operations:
+### For Debian / Ubuntu operating systems:
 
 ~# curl -sSl https://get.docker.com | sh
 
@@ -26,7 +26,7 @@ https://github.com/wilsonribeiro/will-catapi.git
 ~# docker ps
 
 
-### Now clonning the project in your machine:
+### Now, clonning the project in your machine:
 
 ~# git clone https://github.com/wilsonribeiro/will-catapi.git
 
@@ -34,7 +34,7 @@ https://github.com/wilsonribeiro/will-catapi.git
 
 ~# cd will-catapi/
 
-### Run the built app images
+### Build the application image:
 
 ~# docker build -t will-cat-app .
 
@@ -47,7 +47,7 @@ https://github.com/wilsonribeiro/will-catapi.git
 http://localhost:3000/
 
 
-### Nice!! Congratulations!!
+### Well done congratulations!!
 
 
 For more information access my profile on [LinkedIn](https://www.linkedin.com/in/wilsonribeiro2/)
