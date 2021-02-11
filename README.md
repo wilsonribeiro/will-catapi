@@ -33,7 +33,7 @@
 
 ### Enter in the project directory:
 
-~# cd will-catapi/
+~# cd will-catapi
 
 ### Build the application image and PHP Apache Web Server:
 
