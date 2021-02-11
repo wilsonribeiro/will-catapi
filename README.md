@@ -24,7 +24,7 @@
 
 ~# /etc/init.d/docker start
 
-~# docker ps
+~# docker ps -a
 
 
 ### Now, clonning the project in your machine:
